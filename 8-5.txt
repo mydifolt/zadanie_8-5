@@ -1,0 +1,39 @@
+var a = 5
+undefined
+var h = 4
+undefined
+var triangleArea = a*h*/2
+VM137:1 Uncaught SyntaxError: Invalid regular expression: missing /
+var triangleArea = a*h*1/2
+undefined
+console.log('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea);
+VM151:1 Pole trójkąta o podstawie a: 5 i wysokości h: 4 wynosi: 10
+undefined
+prompt
+function prompt() { [native code] }
+prompt console.log
+
+VM211:1 Uncaught SyntaxError: Unexpected identifier
+page.js:89 fullHeight 1020 fullWidth 864
+page.js:90 windowWidth 864 windowHeight 960
+page.js:91 xDelta 864 yDelta 760
+page.js:94 arrangements [0,60], [0,-700]
+prompt
+function prompt() { [native code] }
+downloadLog()
+VM320:1 Uncaught ReferenceError: downloadLog is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM320:1
+console.save(data, [zad 8-5])
+VM342:1 Uncaught SyntaxError: Unexpected number
+console.save(data, [zad 8-5])
+VM358:1 Uncaught SyntaxError: Unexpected number
+console.log
+function log() { [native code] }
+console.log()
+undefined
+var a = prompt('dlugosc podstawy')
+undefined
+console.log('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea);
+VM415:1 Pole trójkąta o podstawie a: 4 i wysokości h: 4 wynosi: 10
+undefined
